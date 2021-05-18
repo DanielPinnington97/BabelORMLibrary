@@ -1,0 +1,8 @@
+com.BabelORM.Annotation
+com.BabelORM.BabelUser
+com.BabelORM.DBConfiguration.BabelQueries
+com.BabelORM.DBConfiguration.ConnectionSettings
+com.BabelORM.DBConfiguration.DBConfig
+com.BabelORM.DBConfiguration.Exceptions
+com.BabelORM.Settings
+com.BabelORM.Utilities

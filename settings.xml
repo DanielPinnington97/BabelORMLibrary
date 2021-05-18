@@ -1,0 +1,9 @@
+<settings>
+    <servers>
+        <server>
+            <id>ossrh</id>
+            <username>dpinnington25@gmail.com</username>
+            <password>Maraurder123@</password>
+        </server>
+    </servers>
+</settings>
